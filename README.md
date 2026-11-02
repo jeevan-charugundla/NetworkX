@@ -251,7 +251,7 @@ Add screenshots of your actual running application in this section.
 
 ![Alternative Route](screenshots/alternative-route.png)
 
-*Note: Create a `screenshots` folder in the repository and add the corresponding actual screenshots.*
+
 
 ## 11. Project Limitations
 
